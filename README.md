@@ -1,2 +1,2 @@
 # my-custom-app
-SN learning tracker
+Custom app repository
